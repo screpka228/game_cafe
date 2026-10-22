@@ -1,0 +1,8 @@
+{
+  "appId": "com.gamecafe.app",
+  "appName": "Кафе",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#2b1d14"
+  }
+}
